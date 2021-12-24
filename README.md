@@ -1,2 +1,2 @@
 # H3-SenaCelebi
-A hypercasual game inspired by Stack Runner
+Rollic & oFon BootCamp Week3 Homework
